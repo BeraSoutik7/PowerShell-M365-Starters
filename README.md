@@ -17,3 +17,16 @@ PowerShell-M365-Starters/
 │   └── Get-TeamsAutoAttendantRoutingReport.ps1
 ├── LICENSE
 └── README.md
+
+---
+
+## 👤 Author
+
+**Soutik Bera**
+* GitHub: [@BeraSoutik7](https://github.com/BeraSoutik7)
+* Repository: [PowerShell-M365-Starters](https://github.com/BeraSoutik7/PowerShell-M365-Starters)
+
+---
+
+## 📄 License
+This repository is licensed under the [MIT License](LICENSE).
