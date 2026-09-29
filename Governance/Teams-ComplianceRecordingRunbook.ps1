@@ -3,7 +3,7 @@
 SCRIPT NAME : Teams-ComplianceRecordingRunbook.ps1
 DESCRIPTION : Modular command runbook for Microsoft Teams Compliance Recording 
               Policies (Create, Verify, Assign, Remove, and Delete).
-AUTHOR      : Shautik Bera
+AUTHOR      : Soutik Bera
 REPOSITORY  : POWERSHELL-M365-STARTERS
 MODULES REQ : MicrosoftTeams (v4.0.0+)
 ================================================================================
